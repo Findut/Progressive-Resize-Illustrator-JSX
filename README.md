@@ -26,8 +26,8 @@ sottocartella icons/ con tutte le PNG necessarie (nomi previsti nello script).
 Apri Illustrator e carica lo script (File → Scripts → Other Script... oppure trascina nello script panel se usi un loader).
 Nomi icone attesi (esempi)
 
-icons/heightActive.png
-icons/heightDisabled.png
+- icons/heightActive.png
+- icons/heightDisabled.png
 icons/widthActive.png
 icons/widthDisabled.png
 icons/propFromHeightActive.png

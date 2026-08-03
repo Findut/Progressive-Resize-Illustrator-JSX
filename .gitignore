@@ -1,0 +1,52 @@
+macOS
+.DS_Store
+
+Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+Editor / IDE
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+OS generated files
+Icon?
+._*
+
+Thumbnails / caches
+*.db
+*.stackdump
+
+Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+Temp files
+*.tmp
+*.temp
+*.bak
+*~
+
+Node (if present)
+node_modules/
+
+Illustrator / Adobe temp files
+~$*
+*.aidb
+*.tmp
+
+Image cache / system files
+Thumbs.db
+.DS_Store
+
+Ignore icons folder if you prefer to keep it local but not commit (uncomment to enable)
+icons/
+Ignore local environment / OS files
+.env
+.env.local
+.env.*.local
